@@ -1,3 +1,0 @@
-FPS+.reg
-pingOpt.reg
-Regedit v3.bat
